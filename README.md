@@ -7,9 +7,7 @@ Welcome to my personal portfolio! This project is a showcase of my skills, and a
 - [Demo](#-demo)  
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)  
-- [Setup Instructions](#-setup-instructions)  
-- [3D Models](#-3d-models)  
-- [Screenshots](#-screenshots)  
+- [Setup Instructions](#-setup-instructions)
 - [License](#-license)
 
 ## 🚀 Demo
