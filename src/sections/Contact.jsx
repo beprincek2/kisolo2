@@ -23,7 +23,7 @@ const Contact = () => {
           </p>
 
           <div className="flex gap-3 mt-5">
-            <a href='https://wa.me/+256766386811'>
+            <a href='https://wa.me/+256768333445'>
             <div className="social-icon">
           <img src="/assets/whatsapp.png" alt="whatsapp" className="w-1/2 h-1/2 filter invert" />
           </div>
