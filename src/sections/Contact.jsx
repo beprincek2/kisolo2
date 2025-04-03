@@ -28,16 +28,21 @@ const Contact = () => {
           <img src="/assets/whatsapp.png" alt="whatsapp" className="w-1/2 h-1/2 filter invert" />
           </div>
             </a>
-          
+          <a href='https://github.com/beprincek2'>
           <div className="social-icon">
             <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
           </div>
+          </a>
+            <a href='https://twitter.com/Beprincek'>
           <div className="social-icon">
             <img src="/assets/twit.png" alt="twitter" className="w-1/2 h-1/2" />
           </div>
+            </a>
+            <a href='https://www.instagram.com/kisolo_benjamin_prince/'>
           <div className="social-icon">
             <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
           </div>
+              </a>
         </div>
 
           
