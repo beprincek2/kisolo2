@@ -38,7 +38,7 @@ const Contact = () => {
             <img src="/assets/twit.png" alt="twitter" className="w-1/2 h-1/2" />
           </div>
             </a>
-            <a href='https://www.instagram.com/kisolo_benjamin_prince/?next=%2F'>
+            <a href='https://www.instagram.com/kisolobenjaminprince/?next=%2F'>
           <div className="social-icon">
             <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
           </div>
