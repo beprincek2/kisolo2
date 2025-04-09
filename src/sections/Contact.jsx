@@ -33,7 +33,7 @@ const Contact = () => {
             <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
           </div>
           </a>
-            <a href='https://x.com/Kisolobp'>
+            <a href='https://x.com/kisolo_prince'>
           <div className="social-icon">
             <img src="/assets/twit.png" alt="twitter" className="w-1/2 h-1/2" />
           </div>
